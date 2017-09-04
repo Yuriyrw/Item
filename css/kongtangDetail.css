@@ -1,0 +1,23 @@
+#contentImages{margin:20px 0;}
+.KongTangDetailxiangguan img{width: 26px;margin-right:10px;}
+.KongTangDetailxiangguan p{font-size: 1.3em;}
+/*.goodsItem li:first-child{padding-right: 0;width:13%;}*/
+#PumpDetails li.goodsName{font-size: 1em;}
+li.commentnicheng{line-height: 30px;font-size: 1.3em;}
+.kongtangDetailreplay,.sayer{font-size: 1.3em;color:#01DEB1;padding:0 10px;}
+
+#commentDiv>div>div{padding:0 1%;}
+#commentDiv>div>div p{padding-left: 10px;line-height: 30px;font-size: 1em;}
+#commentDiv li.commentContents{font-size: 1.2em;margin-bottom: 20px;}
+#commentDiv hr{margin:0;}
+#commentDiv>div{padding:10px 0;}
+@media screen and (min-width:768px){
+   #commentDiv>div>div{margin-left: 6%;}
+}
+@media screen and (max-width:768px){
+    #commentDiv>div>div{margin-left: 10%;}
+    #commentDiv li.commentContents{margin-left: 13%;}
+
+}
+
+#commentDiv>div>div span.kongtangDetailreplay{border-left: 3px solid #ccc;display: inline-block;}

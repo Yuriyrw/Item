@@ -1,0 +1,208 @@
+#kkda_header {background:#fff!important;}
+#kkda_header #navbar ul li a{color:#000;}
+#kkda_header .container div.tel{color:#000;}
+#kkda_header #navbar ul li a .glyphicon:hover{color:#000;}
+#kkda_header .container #navbar.change .navbar_left > .active > a, .navbar-default .navbar_left > .active > a:hover, .navbar-default .navbar_left > .active > a:focus{border-bottom: 0 none;}
+/*Header END*/
+/*Article STR*/
+#aRticle{padding-top: 120px;}
+#aRticle nav.artpag{text-align: center;}
+#aRticle nav.artpag .pagination > li{display:block;float: left;margin:6px;}
+
+
+
+
+
+/*所有的列表、详情样式都在这里
+==================================================*/
+
+#PumpDetails{padding:120px 0;}
+#PumpDetails li{list-style: none;}
+#PumpDetails #containerList{padding-bottom: 20px;}
+#PumpDetails .container .media-kongtang .artCenter .row .Contentimg li{width:23%;margin-right: 5px;margin-bottom: 10px;border:1px solid #ccc;padding:0;}
+#PumpDetails .container .media-kongtang .xiangguanRList li{float: none;}
+#PumpDetails .container .media-kongtang .xiangguanRList{padding:0;}
+#PumpDetails .container .media-kongtang{padding-left: 0;position:relative;border-bottom: 1px solid #E5E5E5;padding:10px 0;}
+#PumpDetails .container .media-kongtang ul.fzp{position:absolute;right:0;bottom:10px;}
+#PumpDetails .container .media-kongtang ul.fzp li{float: left;padding:0;}
+#PumpDetails .container .media-kongtang ul.fzp span{padding-right: 5px;vertical-align: middle;}
+#PumpDetails .container .media-kongtang .xianguan{margin-top:10px;clear:both;}
+#PumpDetails .container .media-kongtang .xianguan p{font-size: 1.3em;}
+#PumpDetails .container .media-kongtang .xianguan ul.goodsItem,.KongTangDetailxiangguan .goodsItem{background:#F5F5F5;margin-top:10px;padding:10px;}
+#PumpDetails .container .media-kongtang .xianguan ul.goodsItem li.originCost{text-decoration: line-through;color:#AAA;}
+#PumpDetails .container .media-kongtang .xianguan img.goodsIcon{width: 30px;height: 30px;display:inline-block;margin-right: 10px;}
+#PumpDetails .container .media-kongtang p.yHcontent{line-height:30px;margin-top:20px;overflow : hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp:4;-webkit-box-orient: vertical;font-size: 1.3em;text-indent:34px;letter-spacing:.01rem;color:#333;}
+#PumpDetails .container .media-kongtang .media-body-kongtang-right ul .Contentimg{width: 20%;display:inline-block;margin-right: 10px;border:1px solid #ccc;}
+#PumpDetails .container .media-kongtang .media-body-kongtang-right ul .Contentimg img{width: 100%;height: 100%;}
+#PumpDetails .container .media-kongtang .media-left-kongtang img{width: 100%;height: 100%;border-radius: 50%;}
+#PumpDetails h1{color:#333;display:inline-block;padding:0 0 20px;border-bottom:none;font-size: 1.6em;margin-bottom: 18px;line-height: 30px;}
+#PumpDetails div span.nickname{font-size: 1.4em;line-height: 30px;color:#333;display:inline-block;font-weight: 500;}
+#PumpDetails div span.yBdate{color:#ff6a0c;padding-left: 5px;font-size: 1.2em;}
+#PumpDetails div span.dBtype{font-size: 1.2em;color:#AAAAAA;}
+#PumpDetails div span.dBdate{font-size: 1em;color:#AAAAAA;}
+#PumpDetails .media{border-bottom: 1px solid #E4E0E0;padding-left:235px;position: relative;padding-bottom: 60px;}
+#PumpDetails .media .media-left{width:225px;height:200px;position:absolute;top:0;left:0;padding-top:20px;}
+#PumpDetails .media .media-left img{width: 100%;height: 160px;display:block;}
+#PumpDetails .media .media-right{height: 100%;width:100%;padding-left: 0;padding-top:20px;}
+#PumpDetails .media .media-right h5,#PumpDetails .media .media-right p{display:inline-block;margin-top:0;/*margin-bottom: 20px;*/}
+#PumpDetails .media .media-right h5{font-size: 1.4em;font-weight: 700;line-height: 20px;}
+#PumpDetails .media .media-right p{position: relative; line-height: 20px; max-height: 40px;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 2;overflow: hidden;font-size: 1.2em;}
+#PumpDetails .media .media-right ul{padding-top: 30px;}
+#PumpDetails .media .media-right ul li{font-size: 1.2em;}
+#PumpDetails .media .media-right ul li span.glyphicon{top:3px;vertical-align: top;}
+#PumpDetails div.margin{margin:80px auto;overflow:hidden;text-align: center;}
+#PumpDetails div.margin #btnLoadMore{background:#ccc;border-radius: 6px;color:#fff;}
+#PumpDetails h1#title{text-align: center;line-height: 40px;}
+#PumpDetails .container>h1{border-bottom: 2px solid #009de2;}
+#PumpDetails div.functionList{background:#FAFAFA;padding:20px;}
+#PumpDetails div.functionList span{font-size: 1.2em;line-height: 30px;}
+#PumpDetails .functionListrepeat,#PumpDetails div#makeWay{text-align: center;}
+#PumpDetails .functionListrepeat span,#PumpDetails .functionListrepeat p{font-size: 1.2em;line-height: 30px;}
+#PumpDetails .center span{font-size: 1.4em;line-height: 40px;font-weight: 600;color:#333;margin:0 3%;}
+#PumpDetails .center h1{font-size: 2em;line-height: 50px;font-weight: 600;color:#333;padding-bottom: 15px;}
+#PumpDetails div.repeatFunction{background:#FAFAFA;font-size: 1.2em;line-height: 30px;margin-top: 20px;padding:10px;}
+#PumpDetails div#makeWay{font-size: 1.2em;line-height: 30px;}
+#PumpDetails .center div{width:18%;height:2px;border-top:1px solid #E7E7E7;position:relative;display:inline-block;}
+#PumpDetails .center div::before{content: "";position: absolute;width: 4px;height: 4px;border: 1px solid #ccc;border-radius: 50%;bottom: 0;right: -3px;}
+#PumpDetails .center div.rightLine::before{content: "";position: absolute;width: 4px;height: 4px;border: 1px solid #ccc;border-radius: 50%;bottom:0;left: -3px;}
+@media screen and (min-width:320px) and (max-width:767px){
+    #PumpDetails .center div{width: 23%;}
+    #PumpDetails .center div.rightLine::before,#PumpDetails .center div::before{bottom:-1px;}
+    #PumpDetails .center span{margin:0 5%;}
+    .goodsItem span,.KongTangDetailxiangguan .goodsItem span{width:60px;height: 60px;display:inline-block;border:1px solid #ccc;}
+    #PumpDetails .media-kongtang .artCenter p.yHcontent{margin-top:2px;overflow : hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp:4;-webkit-box-orient: vertical;font-size: 1.1em;text-indent:28px;}
+    .media-left-kongtang span{width: 46px;height: 46px;display:block;}
+    #PumpDetails .container .media-kongtang .xianguan img.goodsIcon,div.KongTangDetailxiangguan p img{width: 20px;height: 20px;display: inline-block;margin-right: 6px;}
+    #PumpDetails,#haocaiDetails{padding-top: 0;}
+    #PumpDetails ul,#haocaiDetails ul{padding:0;}
+    /*#PumpDetails .media-right li{width: 33.3%;}*/
+    #PumpDetails .media{border-bottom: 2px solid #E4E0E0;padding-left:100px;position: relative;padding-bottom: 10px;}
+    #PumpDetails .media .media-left{width:100px;height:200px;position:absolute;top:0;left:0;padding:0 10px 0 0;}
+    #PumpDetails .media .media-left img{width: 100%;height: 100%;display:block;}
+    #PumpDetails .media .media-right h5{font-size: 1.2em;font-weight: 700;line-height:20px;padding-right: 10px;margin-top:0;margin-bottom: 0;}
+    #PumpDetails .media .media-right{padding-left: 0;}
+    #PumpDetails .media .media-right p{font-size: 1em;line-height: 20px;}
+    #PumpDetails .media .media-right ul li{font-size:.9em;text-align: center;color:#999;width: 28%;}
+    #PumpDetails .media .media-right ul li:first-child{width:36%;}
+    #PumpDetails .container button{font-size: 1.2em;}
+    #PumpDetails .media .media-left{height: 100px;overflow:hidden;padding-top:20px;}
+    #PumpDetails .media .media-right ul{padding-top:10px;}
+    #PumpDetails .media .media-right ul li:first-child{text-align: left;}
+    li.commentNickname{width: 36px;height: 36px;display:block;padding:0;}
+    section#PumpDetails .container .margin #totalItems,section#PumpDetails .container .margin #currentAndTotalPages,section#PumpDetails .container .margin #firstPage,section#PumpDetails .container .margin #prev,section#PumpDetails .container .margin #next,section#PumpDetails .container .margin #lastPage{padding:0;font-size: 1em;margin-right: 2px;box-sizing: border-box;}
+    #PumpDetails div.margin{margin:10px auto 20px;}
+    #PumpDetails #content section p{font-size: 1em;}
+}
+p#content section{font-size: 0.8em;padding:0 3px;}
+#commentsList{text-align: center;}
+p#content p{padding:0 10px;}
+@media screen and (min-width:767px) and (max-width:992px){
+    .media-left-kongtang span{width: 60px;height: 60px;display:inline-block;}
+    li.commentNickname{width: 40px;height: 40px;display:inline-block;padding:0;}
+    .goodsItem span,.KongTangDetailxiangguan .goodsItem span{width:80px;height: 80px;display:inline-block;}
+
+}
+@media screen and (min-width:992px){
+    #PumpDetails .container .media-kongtang p.yHcontent{margin-top:0;}
+    .media-left-kongtang span{width: 76px;height: 76px;display:inline-block;}
+    li.commentNickname{width: 50px;height: 50px;display:inline-block;padding:0;}
+    .goodsItem span,.KongTangDetailxiangguan .goodsItem span{width:80px;height: 80px;display:inline-block;}
+}
+@media screen and (max-width:767px){
+    #PumpDetails .media{padding-bottom: 10px;}
+    #PumpDetails .center h1{font-size: 1.6em;}
+    #PumpDetails h1#title{line-height: 32px;}
+    #PumpDetails img#thumb{width:100%;height: 100%;display:block;}
+    #PumpDetails ul.goodsItem li.goodsName{padding-left: 2px;font-size: 1em;}
+    #PumpDetails{padding:0 2%;}
+    #PumpDetails .container .media-kongtang ul.fzp{position:static;}
+    #PumpDetails .container .media-kongtang ul.fzp li{padding-left: 15px;}
+    #PumpDetails .container .media-kongtang ul.fzp li .glyphicon{padding-right: 5px;}
+    #commentDiv ul li.pumpReplaytime{text-align:right;font-size:1em;color:#B3B3B3;}
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+   #kkda_header .container div.tel{display:none;}
+}
+
+
+/*xiangqingye 评论*/
+section.commentChat div#commentDiv h4{padding-left: 10px;}
+section.commentChat div#commentDiv hr{margin:15px 0;border-top:1px solid #ccc;}
+li.commentNickname{overflow:hidden;border-radius: 50%;}
+li.commentNickname img{width: 100%;height: 100%;display:block;}
+li.commentnicheng{color:#01DEB1;font-size: 1.4em;line-height: 20px;margin-bottom: 10px;}
+li.commentContents{color:#333;font-size: 1.2em;}
+.goodsItem li{font-size: 1em;float: left;}
+.goodsItem li:last-child{float: right;}
+.goodsItem li ul li:first-child{font-size: 1.1em;}
+.goodsItem li ul li:nth-child(2){text-decoration:line-through;font-size: 1em;color:#AAA;}
+.goodsItem li ul li{float: none;text-align: right;}
+#PumpDetails h1,div.media-kongtang div.userInfo,div.media-kongtang div.artCenter,div.xianguan>p{padding:0 10px;}
+#PumpDetails li.goodsName{padding-left: 5px;font-size: 1.2em;}
+/*#PumpDetails #containerList{padding:0 10px;}*/
+.kongtangContentArticle{font-size: 1.2em;line-height: 34px;padding:30px 10px 30px;}
+/*.kongtangDetailimg{width: 30%;margin:0 8px 10px 0;}*/
+.kongtangDetailimg img{width: 100%;height: 100%;display:block;}
+#contentImages{padding:0 10px;margin-bottom: 30px;}
+#PumpDetails #contentImages .kongtangDetailimg{padding:0 10px 10px 0;}
+
+
+#thumbnailBox:hover{border-radius: 5px;}
+#thumbnailBox{border-radius: 5px;}
+/*replayToNickname*/
+div.replayBox{color:#B2B2B2;}
+div.replayBox p{color:#4F4F4F;font-size: 1.2em;line-height: 30px;}
+div.replayBox div{padding-left: 20px;border-left: 4px solid #DDDDDD;margin-bottom: 20px;border-top:1px dashed #F3F3F3;border-bottom:1px dashed #F3F3F3;}
+.Nicknamereplay{font-size: 1.2em;color:#01DEB1;margin-right: 5px;font-weight: 100;}
+.replayNickname{font-size: 1.2em;color:#01DEB1;margin-left: 5px;font-weight: 100;}
+#commentDiv>div{border-bottom: 1px solid #F3F3F3;padding:20px 0;}
+#commentDiv>div:nth-child(1){padding:0;}
+#PumpDetails ul.pumpContentList li{float: left;}
+ul li.pumpReplaytime{text-align:right;font-size:1.2em;color:#B3B3B3;}
+span#content section p{font-size: 1.2em;}
+#PumpDetails .media:hover{background:#f5f5f5;transition:300ms ease all;}
+#PumpDetails .media:hover h5{color:#009de2;transition:200ms ease all;}
+
+#PumpDetails .container .margin #totalItems,.margin #currentAndTotalPages,.margin #firstPage,.margin #prev,.margin #next,.margin #lastPage{border: 1px solid #D9D9D9;padding: 8px 15px;font-size: 1.2em;border-radius: 0;display:inline-block;cursor:pointer;border-radius: 5px;}
+#PumpDetails .container div.margin span{background:none;font-size: 1.2em;padding:8px 15px;line-height: 24px;border:1px solid #DCDCDC;border-radius: 0;margin-right: 10px;border-radius: 5px;}
+#PumpDetails .container .margin #totalItems,#PumpDetails .container .margin #currentAndTotalPages{cursor:not-allowed;}
+@media screen and (min-width:320px) and (max-width:374px){
+   section#PumpDetails .container .margin #totalItems, section#PumpDetails .container .margin #currentAndTotalPages, section#PumpDetails .container .margin #firstPage, section#PumpDetails .container .margin #prev, section#PumpDetails .container .margin #next, section#PumpDetails .container .margin #lastPage{padding:3px 6px;}
+}
+@media screen and (min-width:375px) and (max-width:414px){
+   section#PumpDetails .container .margin #totalItems, section#PumpDetails .container .margin #currentAndTotalPages, section#PumpDetails .container .margin #firstPage, section#PumpDetails .container .margin #prev, section#PumpDetails .container .margin #next, section#PumpDetails .container .margin #lastPage{padding:3px 10px;}
+}
+@media screen and (min-width:414px) and (max-width:768px){
+   section#PumpDetails .container .margin #totalItems, section#PumpDetails .container .margin #currentAndTotalPages, section#PumpDetails .container .margin #firstPage, section#PumpDetails .container .margin #prev, section#PumpDetails .container .margin #next, section#PumpDetails .container .margin #lastPage{padding:3px 12px;}
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+   .navbar-default .navbar-nav > li > a{padding:10px 15px;}
+   #kkda_header #navbar .navbar-collapse .navbar_left li img{padding-top:0;}
+}
+
+#Information{padding-top:120px;}
+
+
+/*informationList1*/
+#PumpDetails #ArticleList .listModule{border-bottom: 1px solid #E4E0E0;padding-top:10px;}
+#PumpDetails #ArticleList .listModule:hover{background: #f5f5f5;transition: 300ms ease all;}
+#PumpDetails #ArticleList .listModule:hover h4{color:#009FE8;transition: 300ms ease all;}
+#PumpDetails #ArticleList .listModule ul.Module-left li img{width: 100%;height: 100%;}
+#PumpDetails #ArticleList .listModule ul.Module-right li h4{font-size: 1.6em;font-weight: 600;}
+#PumpDetails #ArticleList .listModule ul.Module-right li p{    line-height: 30px;max-height: 90px;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 3;overflow: hidden;font-size: 1.2em;}
+/*Item All*/
+#PumpDetails div.itemContent li h2{text-align: center;padding-bottom: 30px;}
+#PumpDetails div.itemContent li p{font-size: 1.2em;line-height: 32px;text-indent: 30px;}
+#PumpDetails div.itemContent li.img{width: 60%;margin:0 auto;}
+#PumpDetails div.itemContent li.img img{width: 100%;height: 100%;}
+#PumpDetails div.container h1.informationTitle{border:0 none;}
+@media screen and (max-width:768px){
+#PumpDetails #ArticleList .listModule ul.Module-right li h4{font-size: 1.2em;font-weight: 600;margin:0;}
+#PumpDetails #ArticleList .listModule ul.Module-right li p{line-height: 20px;max-height: 40px;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp:2;overflow: hidden;font-size: 1em;}
+#PumpDetails #ArticleList .listModule ul.Module-left{padding-right: 3px;}
+    #PumpDetails div.itemContent li h2{text-align: center;padding-bottom: 0;font-size: 1.3em;font-weight: 600;}
+    #PumpDetails div.itemContent li p{font-size: 1.1em;line-height: 24px;text-indent: 30px;}
+#PumpDetails div.itemContent li.img{width: 100%;margin:15px 0;}
+
+
+}
